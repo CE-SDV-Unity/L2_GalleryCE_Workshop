@@ -1,2 +1,5 @@
-# L2_GalleryCE_Workshop
-Complete example of the CE Gallery
+# L2 Unity Foundation 2 - Connected Environments Studio
+
+The complete example of Sensor Data Viualisation - Lecture 1 and 2
+
+
