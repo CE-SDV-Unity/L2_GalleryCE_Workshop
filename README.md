@@ -23,3 +23,8 @@ The folder `Week1_Gallery` contains the entire Unity project (version used 2020.
 - [Desert Nomad Windmill](https://skfb.ly/oqMKO) by BenVanhaelst is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
 
+
+Part of the Sensor Data Visualisation Module 
+
+Dr. Valerio Signorelli
+Prof. Andy Hudson-Smith
