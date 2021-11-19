@@ -27,4 +27,5 @@ The folder `Week1_Gallery` contains the entire Unity project (version used 2020.
 Part of the Sensor Data Visualisation Module 
 
 Dr. Valerio Signorelli
+
 Prof. Andy Hudson-Smith
